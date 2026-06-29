@@ -2,10 +2,11 @@
 
 ## Identify the problem before searching for the solution.
 
+- Work in a copy of your script or notebook
 - Start at the top of the script or notebook
 - Write print statements or run the code in chunks until you get the error
 - If necessary, you can comment out code chunks, and run the code again to see if that helps identify the location of the error.
-
+- Check that each code chunk does what you expect (e.g., using print statements), working top to bottom, ruling out chunks that perform properly.
 
 ## Your problem probably falls into one of these two buckets:
 
