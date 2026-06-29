@@ -21,9 +21,9 @@ Topics: Pandas, Troubleshooting Code
 
 **Google Colab Links**
 
-[Pandas Part 1](https://colab.research.google.com/github/nuitrcs/python_intermediate_aug2026_chicago/blob/main/day1/pandas/pandas%20part%201.ipynb)
+[Pandas Part 1](https://colab.research.google.com/github/nuitrcs/python_intermediate_aug2026_chicago/blob/main/day1/pandas/pandas_part1.ipynb)
 
-[Pandas Part 2](https://colab.research.google.com/github/nuitrcs/python_intermediate_aug2026_chicago/blob/main/day1/pandas/pandas%20part%202.ipynb)
+[Pandas Part 2](https://colab.research.google.com/github/nuitrcs/python_intermediate_aug2026_chicago/blob/main/day1/pandas/pandas_part2.ipynb)
 
 [Troubleshooting Code Debug Exercise 1](https://colab.research.google.com/github/nuitrcs/python_intermediate_aug2026_chicago/blob/main/day1/troubleshooting/toDebug1.ipynb)
 
